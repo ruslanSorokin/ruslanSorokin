@@ -1,7 +1,7 @@
 ### Summary
 
 ***Backend Golang Developer*** with a ***year*** of non-commercial ***experience***.  
-Intended to grow as ***Backend Developer*** as well as a ***DevOps Specialist***.  
+Intended to grow as a ***Backend Developer*** as well as a ***DevOps Specialist***.  
 I mainly use ***Golang***, but also have fondness for ***Scala*** & ***Rust***.  
 
 ---
