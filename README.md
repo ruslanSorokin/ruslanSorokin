@@ -4,6 +4,11 @@
   
   ![cv](https://ruslansorokin.github.io/cv/Ruslan_Sorokin_CV_EN.svg)
 </details>
+<details>
+  <summary>Download</summary>
+  
+  - [pdf](https://ruslansorokin.github.io/cv/Ruslan_Sorokin_CV_EN.pdf)
+</details>
 
 
 ### Projects
