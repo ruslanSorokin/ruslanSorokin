@@ -1,9 +1,8 @@
-### CV
+### Resume
 <details>
   <summary>Preview</summary>
   
   ![cv](https://ruslansorokin.github.io/cv/Ruslan_Sorokin_CV_EN.svg)
-  
 </details>
 
 
