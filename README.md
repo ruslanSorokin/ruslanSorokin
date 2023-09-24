@@ -1,6 +1,6 @@
 <h3><a id="summary" class="anchor" aria-hidden="true"></a>Summary</h3>
 
-***Backend Golang Developer*** with a ***year*** of hands-on ***experience***.  
+***Backend Golang Developer*** with a ***year of hands-on experience***.  
 I am interested in both ***Backend Development*** and ***DevOps*** areas.  
 I primarily work with ***Golang***, but I also have a keen interest in exploring ***Rust & Scala***.  
 
