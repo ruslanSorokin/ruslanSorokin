@@ -1,8 +1,8 @@
 <h3><a id="summary" class="anchor" aria-hidden="true"></a>Summary</h3>
 
-***Backend Golang Developer*** with a ***year of hands-on experience***.  
-I am interested in both ***Backend Development*** and ***DevOps*** areas.  
-I primarily work with ***Golang***, but I also have a keen interest in exploring ***Rust & Scala***.  
+`Backend Golang Developer` with a `year of hands-on experience`.  
+I am interested in both `Backend Development` and `DevOps` areas.  
+I primarily work with `Golang` but I also have a keen interest in exploring `Rust & Scala`  
 
 ---
 
@@ -14,11 +14,7 @@ I primarily work with ***Golang***, but I also have a keen interest in exploring
   ![cv](https://ruslansorokin.github.io/cv/Ruslan_Sorokin_CV_EN.svg)
 </details>
 
-<details>
-  <summary>Download</summary>
-  
-  - [pdf](https://ruslansorokin.github.io/cv/Ruslan_Sorokin_CV_EN.pdf)
-</details>
+[PDF](https://ruslansorokin.github.io/cv/Ruslan_Sorokin_CV_EN.pdf)
 
 ---
 
